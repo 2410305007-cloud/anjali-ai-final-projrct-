@@ -1,0 +1,24 @@
+.wishlist-page {
+  padding: 2rem 0 4rem;
+}
+
+.cart-empty {
+  text-align: center;
+  padding: 6rem 0;
+  color: var(--gray-light);
+}
+
+.cart-empty svg {
+  margin-bottom: 1.5rem;
+  opacity: 0.3;
+}
+
+.cart-empty h2 {
+  font-size: 1.8rem;
+  color: var(--white);
+  margin-bottom: 0.5rem;
+}
+
+.cart-empty p {
+  margin-bottom: 2rem;
+}
